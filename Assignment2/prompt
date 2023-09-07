@@ -1,0 +1,7 @@
+1. Payment webpage for via Credit card and PayPal(radio buttons) using html, css and js
+2. Background in sky-blue, all input fields vertical
+3. keep logo from path '/Users/admin/Music/255-Data Mining' and file name '255jpg.jpg'
+4. Expiry date must be in mm/yyyy format.
+5. If PayPal option is selected ask PayPal address
+6. Keep the payment container in at center and in light grey color
+7. add marquee tag posting 'SANJOSE STATE UNIVERSITY' in Bold above container
