@@ -1,8 +1,8 @@
 **Short story assignment**:
-The Effect of COVID-19 on Global Stock Markets
+Visualizing Film Big Data Using D3.js
 
-**Medium article URL** : https://medium.com/@harshavardhanv89/the-ripple-effect-of-covid-19-on-global-stock-markets-a36bf172b4d1
-**Youtube demo URL** : 
+**Medium article URL** : https://medium.com/@harshavardhanv89/unveiling-socioeconomic-insights-analyzing-the-census-income-dataset-cd220ac65ee4
+**Youtube demo URL** : https://youtu.be/TURnNdrmXRg
 
-**Slides URL** :
+**Slides URL** :https://www.slideshare.net/harshavardhanraghave/harshasspptx-6ed5
 
